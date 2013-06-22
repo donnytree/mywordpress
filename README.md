@@ -6,4 +6,4 @@ I have been developing and programming in Wordpress for several years. I reuse a
 License
 ===========
 
-donnytree source code is licensed under the <a href="https://github.com/donnytree/mywordpress/blob/master/LICENSE">GNU General Public License</a>. Feedback, pull requests welcome.
+donnytree's source code is licensed under the <a href="https://github.com/donnytree/mywordpress/blob/master/LICENSE">GNU General Public License</a>. Feedback, pull requests welcome.
